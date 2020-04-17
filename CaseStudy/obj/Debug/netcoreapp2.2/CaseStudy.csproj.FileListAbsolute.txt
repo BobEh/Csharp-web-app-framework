@@ -1,0 +1,82 @@
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.deps.json
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.json
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.dev.json
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.dll
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.pdb
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.dll
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CoreCompileInputs.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfoInputs.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfo.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.input.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.output.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorCoreGenerate.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Brand\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Data\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Login\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Register\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.dll
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.pdb
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CopyComplete
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Tray\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Tray\List.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Branch\Index.g.cshtml.cs
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csprojAssemblyReference.cache
+D:\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\wwwroot\images\branch.png
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettingsLocal.Development.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettingsLocal.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\wwwroot\images\branch.png
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.deps.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.dev.json
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.dll
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.pdb
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.dll
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csprojAssemblyReference.cache
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cache
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfoInputs.cache
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfo.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.input.cache
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.output.cache
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorCoreGenerate.cache
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Branch\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Brand\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Data\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Login\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Register\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Tray\Index.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Tray\List.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cache
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cs
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.dll
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.pdb
+E:\D Drive\School\School - S4\ASP.NET\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CopyComplete

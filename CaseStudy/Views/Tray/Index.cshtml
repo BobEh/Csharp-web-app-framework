@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card">
+    <div class="card-title text-center mt-5">
+        <h3 class="font-weight-bold">Cart Contents</h3>
+        <img src="/images/Cart.png" style="height:10%;width:10%;padding-bottom:5%;" />
+        <p>Products Currently Selected</p>
+    </div>
+    <div class="text-center">
+        @{
+            Dictionary<string, object> tray = Context.Session.Get<Dictionary<string, Object>>("tray");
+            string code = "";
+            string name = "";
+            int qty = 0;
+            int qtyOnBackOrder = 0;
+            decimal extended = 0.0M;
+            decimal msrp = 0.0M;
+            decimal subTotal = 0.0M;
+            decimal tax = 0.0M;
+            decimal orderTotal = 0.0M;
+        }
+        <table class="table table-striped">
+            <tr style="font-weight:bolder;">
+                <th class="text-center">Code</th>
+                <th class="text-left">Name</th>
+                <th class="text-left">Msrp</th>
+                <th class="text-left">Qty</th>
+                <th class="text-left">Extended</th>
+            </tr>
+            @{
+                if (tray != null)
+                {
+                    foreach (var key in tray.Keys)
+                    {
+                        ProductViewModel item = JsonConvert.DeserializeObject
+                       <ProductViewModel>
+                       (Convert.ToString(tray[key]));
+                        if (item.Qty > 0)
+                        {
+                            code = item.Id;
+                            name = item.PRODUCTNAME;
+                            msrp = item.MSRP;
+                            qty = item.Qty;
+                            extended = item.MSRP * item.Qty;
+                            subTotal += item.MSRP * item.Qty;
+                            tax += item.MSRP * 0.13M;                            
+                        <tr>
+                            <td class="text-center">@item.Id</td>
+                            <td class="text-left">@item.PRODUCTNAME</td>
+                            <td class="text-left">@String.Format("{0:C}", (@item.MSRP))</td>
+                            <td class="text-left">@item.Qty</td>
+                            <td class="text-left">@String.Format("{0:C}", (@extended))</td>
+                        </tr>
+                        }
+                        qtyOnBackOrder = item.QTYONBACKORDER;
+                    }
+                    tax = subTotal * 0.13M;
+                    orderTotal = subTotal + tax;
+                }
+            }
+        </table>
+        <hr />
+        <table class="table table-striped">
+            <tr>
+                <th colspan="2" class="text-left" style="font-size:large;font-weight:bold;">
+                    Cart
+                    Totals
+                </th>
+            </tr>
+            <tr>
+                <td class="text-right font-weight-bold">Sub Total:</td>
+                <td class="text-left" id="cal">@String.Format("{0:C}", (@subTotal))</td>
+            </tr>
+            <tr>
+                <td class="text-right font-weight-bold">Tax</td>
+                <td class="text-left" id="fat">@String.Format("{0:C}", (@tax))</td>
+            </tr>
+            <tr>
+                <td class="text-right font-weight-bold">Order Total:</td>
+                <td class="text-left" id="pro">@String.Format("{0:C}", (@orderTotal))</td>
+            </tr>
+            <div class="text-center mb-2">
+                <form asp-controller="Tray" asp-action="AddTray" method="post" role="form">
+                    @if (Context.Session.Get(SessionVariables.User) != null)
+                    {
+                        <button type="submit" class="btn btn-sm btn-primary" id="modalbtn">Add Cart</button>
+                    }
+                    &nbsp;<a href="/Order/ClearTray" class="btn btn-sm btn-success">Clear Cart</a>
+                </form>
+            </div>
+
+        </table>
+    </div>
+</div>
